@@ -1,0 +1,26 @@
+/* Write your CSS here */
+.notfound-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+.notfound-internal-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.notfound-image {
+  max-width: 1000px;
+  max-height: 1000px;
+}
+.notfound-heading {
+  font-size: 150px;
+  margin-bottom: 0px;
+  margin-top: 0px;
+}
+.notfound-paragraph {
+  font-size: 44px;
+}
